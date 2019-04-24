@@ -1,0 +1,92 @@
+/* navbar */
+.navbar {
+  background-color: #113F67;
+  padding-bottom: 5rem;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* title */
+
+#title {
+  background-color: #113F67;
+}
+
+h1 {
+  color: #65C6C4;
+  margin-left: 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5rem;
+  color: #65C6C4;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+/* 34699A */
+/* 65C6C4 */
+.download-btn {
+  margin: 75px 50px 75px 10px;
+  font-size: 2rem;
+}
+
+.iphone-img {
+  width: 374px;
+  height: 699.38px;
+  margin-left: 25%;
+  margin-right: 50%;
+}
+
+/* width: 66%; */
+/* height: 66%; */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* pharmacymiddle */
+#pharmacy-middle {
+  background-color: #34699A;
+}
+
+.fa-phone-slash{
+  width: 50px;
+  height: 50px;
+}
+
+h2 {
+  margin: 30px auto;
+}
+
+p2 {
+  font-size: 1.5rem;
+}
+
+.middle-first-h2 {
+  margin-bottom: 75px;
+
+}
+.middle-third-h2 {
+
+    margin-bottom: 105px;
+}
+
+.middle-fourth-h2 {
+  margin-bottom: 67px;
+
+}
+
+/* Pharmacistsmiddle */
+
+#pharmacists-middle {
+  background-color: #408ab4;
+
+}
