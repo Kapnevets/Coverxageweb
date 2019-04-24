@@ -54,9 +54,9 @@ p {
 }
 
 .iphone-img {
-  width: 250px;
+  width: 200px;
   height: 25.100rem;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .container-fluid {
@@ -85,27 +85,17 @@ p2 {
   font-size: 1.5rem;
 }
 
-.middle-first-h2 {
-  margin-bottom: 75px;
-}
-
-.middle-third-h2 {
-  margin-bottom: 105px;
-}
-
-.middle-fourth-h2 {
-  margin-bottom: 67px;
-}
-
 /* Pharmacistsmiddle */
 #pharmacists-middle {
   background-color: #408ab4;
 }
 
-/* info */
-#info {
+/* pricing */
+#pricing {
   background-color: #65c6c4;
 }
+
+
 
 /* tail */
 #tail {}
