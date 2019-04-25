@@ -1,7 +1,6 @@
 body {
-text-align: center;
+  text-align: center;
 }
-
 
 /* navbar */
 .navbar {
@@ -16,15 +15,9 @@ text-align: center;
 }
 
 .Coverxage-brand {
-  width:  150px;
+  width: 150px;
   height: 50%;
 }
-/* Icon */
-.fas1 {
-  color: #65c6c4;
-}
-
-.fas2 {}
 
 /* title */
 #title {
@@ -70,11 +63,11 @@ h3 {
 }
 
 .pharm-mid {
-  color: #65c6c4;
+  color: black;
 }
 
 #pharmacy-middle {
-  background-color: #34699A;
+  background-color: #fff;
 }
 
 h2 {
@@ -83,6 +76,10 @@ h2 {
 
 p2 {
   font-size: 1.5rem;
+}
+
+.fas1 {
+  color: #65c6c4;
 }
 
 /* Pharmacistsmiddle */
@@ -95,7 +92,21 @@ p2 {
   background-color: #65c6c4;
 }
 
+.cists-mid {
+  color: white;
+}
 
+.fas2 {
+  color: white;
+}
+
+.card-title {
+  color: black;
+}
+
+.pricing-row {
+  margin-left: 30px;
+}
 
 /* tail */
 #tail {}
